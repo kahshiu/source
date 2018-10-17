@@ -16,6 +16,6 @@ BEGIN
 	SET NOCOUNT ON;
 
     -- Insert statements for procedure here
-	SELECT 1,2,3
+	SELECT 1,2,3,4,5,6
 END
 GO
